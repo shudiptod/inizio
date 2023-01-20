@@ -1,0 +1,23 @@
+[
+  {
+    "First Name": "David",
+    "Last Name": "Brros",
+    "Annual Interest Rate": "11",
+    "Principal Amount": "10000000",
+    "Tenures in Month": "37"
+  },
+  {
+    "First Name": "Tempa",
+    "Last Name": "Tukus",
+    "Annual Interest Rate": "4",
+    "Principal Amount": "99000000.89",
+    "Tenures in Month": "56"
+  },
+  {
+    "First Name": "Tomas",
+    "Last Name": "Mular",
+    "Annual Interest Rate": "27",
+    "Principal Amount": "20000",
+    "Tenures in Month": "3"
+  }
+]
